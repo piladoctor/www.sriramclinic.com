@@ -4,7 +4,7 @@ body, *{
 	box-sizing: border-box;
 }
 header{
-	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../image/S0a4Ag.jpg");
+	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("S0a4Ag.jpg");
 	height: 1000px;
 	background-position: center;
 	background-attachment: fixed;
