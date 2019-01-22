@@ -174,7 +174,7 @@ a:hover{
 
 
 .third{
-	height: 1000px;
+	height: 1400px;
 	
 	background-image:linear-gradient(to right, rgb(255,0,255),rgb(0,255,0));
 }
@@ -200,7 +200,7 @@ a:hover{
 }
 
 .contact {
-	height: 55%;
+	height: 40%;
 	width: 70%;
 	background-color: rgb(49, 57, 78);
 	margin: auto; 
